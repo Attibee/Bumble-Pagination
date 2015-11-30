@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * The base paginator inherite by all paginators.

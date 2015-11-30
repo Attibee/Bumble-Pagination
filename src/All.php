@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * The All paginator will return a list of all pages.

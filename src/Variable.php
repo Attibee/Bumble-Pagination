@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * Variable pagination will show a variable number of pages.

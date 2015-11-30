@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * Fixed pagination will always attempt to show a fixed number of pages.

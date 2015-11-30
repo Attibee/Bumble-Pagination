@@ -1,6 +1,6 @@
 {
-    "name": "bumble/pagination",
-    "description": "Provides classes for many types of pagination generation.",
+    "name": "bumble/localization",
+    "description": "Provides an interface to access the standard Unicode localization data.",
     "homepage": "http://bumble.attibee.com",
     "support": {
         "email": "a@attibee.com",
@@ -10,7 +10,7 @@
     "keywords": [
         "attibee",
         "bumble",
-        "pagination"
+        "localization"
     ],
     "version": "1.0-dev",
     "minimum-stability": "dev",

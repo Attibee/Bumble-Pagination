@@ -1,5 +1,5 @@
 <?php
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * Extended by the Paginator tests. Includes some common methods.
@@ -46,8 +46,8 @@ abstract class PaginationTest extends \PHPUnit_Framework_TestCase {
     
     /**
      * Creates the paginator test.
-     * @param \Attibee\Paginator\Paginator $p the paginator object
-     * @return \Attibee\Paginator\Paginator the paginator object
+     * @param \Bumble\Paginator\Paginator $p the paginator object
+     * @return \Bumble\Paginator\Paginator the paginator object
      */
     protected function createPaginator( Pagination $p = null ) {
         if( !$p ) return null;

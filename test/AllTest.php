@@ -1,5 +1,5 @@
 <?php
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * Description of FixedValidatorTest

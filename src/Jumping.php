@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Attibee\Pagination;
+namespace Bumble\Pagination;
 
 /**
  * Jumping pagination will jump from sets of pages as the current page moves.
